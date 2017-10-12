@@ -1,18 +1,16 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-baseurl: "/will-jekyll-template" # the subpath of your site, e.g. /blog
-url: "https://willianjusten.com.br" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Sketch Libraries
+description: A Sketch App Libraries repository.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sketchlibraries.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
-disqus_username: lorem_ipsum
+username: Sketch Libraries
+user_description: A Sketch App Libraries repository.
+user_title: A Sketch App Libraries repository.
+email: call@caiocall.com
+twitter_username: caiocall
+github_username:  caiocall
 
 # Build settings
 markdown: kramdown
