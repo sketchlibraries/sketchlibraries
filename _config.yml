@@ -30,11 +30,11 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
-    url: /series
-  - title: Tags
-    url: /tags
-  - title: About Me
+  - title: Libraries
+    url: /libraries
+  - title: Contribute
+    url: /contribute
+  - title: About the project
     url: /about
 
 # exclude my node related stuff
